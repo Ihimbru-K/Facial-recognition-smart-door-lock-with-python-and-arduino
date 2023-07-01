@@ -1,6 +1,8 @@
 # Smart-door-lock-using-python-OpenCV-tensorflow-arduino
 This was implemented using openCV, and arduino. 
 
+...
+
 Communication between arduino and python source codes is established via serial communication with the use of pyserial library.
 The python part of the project is divided into 6 modules : collecting data, Reading images from webcam, facial detection, model training and facial recognition.
 Each module has it's corresponding input and output.
