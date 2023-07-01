@@ -12,3 +12,5 @@ The arduino hardware module was implemented using a servomotor, potentiometer an
 If the required ID from the python module is detected. The python code sends the string representation of that id to arduino.
 In the arduino, if the required string is received from the required serial port, it causes the servomotor to move 360 degrees else it doesn't move.It starts by importing the Servo library.
 
+...
+
