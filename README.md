@@ -1,5 +1,5 @@
 # Smart-door-lock-using-python-OpenCV-tensorflow-arduino
-This was implemented using openCV, and arduino. 
+This was implemented using openCV and arduino. 
 
 
 
